@@ -1,0 +1,19 @@
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+GITHUB.COM/DISBUTED
+
+
+Version 1.0 Archive:
+
+Removed hella features that just wasn't needed / idk why they was even there
+Gonna add some more logging features soon with errors etc etc
+Also i fixed some imports being depricated so i added them into the requirements.txt so if your getting an error with imports, thatll be why maybe :)
+
