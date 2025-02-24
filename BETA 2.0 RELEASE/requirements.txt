@@ -1,0 +1,10 @@
+discord==1.0.1
+discord.py==1.6.0
+asyncio
+aiohttp
+colorama
+fade
+pillow
+legacy-cgi
+audioop-lts
+bs4
